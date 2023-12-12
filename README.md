@@ -1,16 +1,13 @@
-👋 Hello, I'm Willer
+👋 Olá, sou Willer
 
-💻 Software Engineer | 🌐 Web Developer | 📊 Data Enthusiast
+🌐 Desenvolvedor Web
 
-🚀 Passionate about creating innovative solutions that make a difference. I enjoy working with cutting-edge technologies and collaborating with like-minded developers.
+🚀 Apaixonado por criar soluções inovadoras que fazem a diferença. Gosto de trabalhar com tecnologias de ponta e colaborar com desenvolvedores com mentalidade semelhante.
 
-🌍 Currently exploring the realms of web development and diving deep into front-end and back-end technologies. My favorite stack includes JavaScript, React, Node.js, and MongoDB.
+🌍 Atualmente explorando os domínios do desenvolvimento web e mergulhando profundamente nas tecnologias front-end e back-end. Minha pilha favorita inclui JavaScript, React, Node.js e MongoDB.
 
-📈 Data-driven decisions are my forte. I love turning complex data into actionable insights. Python and data analysis tools are my trusted companions.
+📈 Decisões orientadas por dados são minha especialidade. Adoro transformar dados complexos em insights acionáveis. Python e ferramentas de análise de dados são meus companheiros de confiança.
 
-🔗 Let's connect! Check out my projects, and feel free to reach out for collaboration or a friendly chat. You can find more about me on LinkedIn (https://www.linkedin.com/in/willerlucoles).
+🔗 Vamos conectar! Confira meus projetos e fique à vontade para entrar em contato para colaboração ou uma conversa amigável. Você pode saber mais sobre mim no LinkedIn (https://www.linkedin.com/in/willerlucoles).
 
-📚 Lifelong learner on a quest for knowledge. When not coding, you'll find me lost in a good book or out exploring nature.
-
-🌟 Open to new opportunities and exciting projects. Let's build something amazing together!
-
+📚 Aprendiz vitalício em busca de conhecimento. Quando não estou codificando, você me encontrará perdido em um bom livro ou explorando a natureza.
